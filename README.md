@@ -15,7 +15,7 @@ Dick, Nir, Naama Glauber, Adi Yehezkeli, Moran Mizrahi, Shani Reches, Maiayn Ben
 
 Companion Publication on Designing Interactive Systems (DIS '18). ACM, New York, NY, USA
 
-## My Work for this Paper:
+## My Contribution:
 ![Alt text](/figures/Lines.jpg?raw=true "")
 Lines
 
